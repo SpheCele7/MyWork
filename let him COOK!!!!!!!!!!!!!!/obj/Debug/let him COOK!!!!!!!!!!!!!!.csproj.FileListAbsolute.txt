@@ -1,0 +1,10 @@
+C:\Users\Sphesihle Cele\source\repos\let him COOK!!!!!!!!!!!!!!\bin\Debug\let him COOK!!!!!!!!!!!!!!.exe.config
+C:\Users\Sphesihle Cele\source\repos\let him COOK!!!!!!!!!!!!!!\bin\Debug\let him COOK!!!!!!!!!!!!!!.exe
+C:\Users\Sphesihle Cele\source\repos\let him COOK!!!!!!!!!!!!!!\bin\Debug\let him COOK!!!!!!!!!!!!!!.pdb
+C:\Users\Sphesihle Cele\source\repos\let him COOK!!!!!!!!!!!!!!\obj\Debug\let him COOK!!!!!!!!!!!!!!.csproj.AssemblyReference.cache
+C:\Users\Sphesihle Cele\source\repos\let him COOK!!!!!!!!!!!!!!\obj\Debug\let_him_COOK______________.Form1.resources
+C:\Users\Sphesihle Cele\source\repos\let him COOK!!!!!!!!!!!!!!\obj\Debug\let_him_COOK______________.Properties.Resources.resources
+C:\Users\Sphesihle Cele\source\repos\let him COOK!!!!!!!!!!!!!!\obj\Debug\let him COOK!!!!!!!!!!!!!!.csproj.GenerateResource.cache
+C:\Users\Sphesihle Cele\source\repos\let him COOK!!!!!!!!!!!!!!\obj\Debug\let him COOK!!!!!!!!!!!!!!.csproj.CoreCompileInputs.cache
+C:\Users\Sphesihle Cele\source\repos\let him COOK!!!!!!!!!!!!!!\obj\Debug\let him COOK!!!!!!!!!!!!!!.exe
+C:\Users\Sphesihle Cele\source\repos\let him COOK!!!!!!!!!!!!!!\obj\Debug\let him COOK!!!!!!!!!!!!!!.pdb
