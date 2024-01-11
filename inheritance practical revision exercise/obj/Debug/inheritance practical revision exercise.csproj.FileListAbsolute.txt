@@ -1,0 +1,10 @@
+C:\Users\Sphesihle Cele\source\repos\inheritance practical revision exercise\bin\Debug\inheritance practical revision exercise.exe.config
+C:\Users\Sphesihle Cele\source\repos\inheritance practical revision exercise\bin\Debug\inheritance practical revision exercise.exe
+C:\Users\Sphesihle Cele\source\repos\inheritance practical revision exercise\bin\Debug\inheritance practical revision exercise.pdb
+C:\Users\Sphesihle Cele\source\repos\inheritance practical revision exercise\obj\Debug\inheritance practical revision exercise.csproj.AssemblyReference.cache
+C:\Users\Sphesihle Cele\source\repos\inheritance practical revision exercise\obj\Debug\inheritance_practical_revision_exercise.Form1.resources
+C:\Users\Sphesihle Cele\source\repos\inheritance practical revision exercise\obj\Debug\inheritance_practical_revision_exercise.Properties.Resources.resources
+C:\Users\Sphesihle Cele\source\repos\inheritance practical revision exercise\obj\Debug\inheritance practical revision exercise.csproj.GenerateResource.cache
+C:\Users\Sphesihle Cele\source\repos\inheritance practical revision exercise\obj\Debug\inheritance practical revision exercise.csproj.CoreCompileInputs.cache
+C:\Users\Sphesihle Cele\source\repos\inheritance practical revision exercise\obj\Debug\inheritance practical revision exercise.exe
+C:\Users\Sphesihle Cele\source\repos\inheritance practical revision exercise\obj\Debug\inheritance practical revision exercise.pdb
