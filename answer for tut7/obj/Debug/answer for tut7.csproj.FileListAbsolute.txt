@@ -1,0 +1,10 @@
+C:\Users\Sphesihle Cele\source\repos\answer for tut7\bin\Debug\answer for tut7.exe.config
+C:\Users\Sphesihle Cele\source\repos\answer for tut7\bin\Debug\answer for tut7.exe
+C:\Users\Sphesihle Cele\source\repos\answer for tut7\bin\Debug\answer for tut7.pdb
+C:\Users\Sphesihle Cele\source\repos\answer for tut7\obj\Debug\answer for tut7.csproj.AssemblyReference.cache
+C:\Users\Sphesihle Cele\source\repos\answer for tut7\obj\Debug\answer_for_tut7.Form1.resources
+C:\Users\Sphesihle Cele\source\repos\answer for tut7\obj\Debug\answer_for_tut7.Properties.Resources.resources
+C:\Users\Sphesihle Cele\source\repos\answer for tut7\obj\Debug\answer for tut7.csproj.GenerateResource.cache
+C:\Users\Sphesihle Cele\source\repos\answer for tut7\obj\Debug\answer for tut7.csproj.CoreCompileInputs.cache
+C:\Users\Sphesihle Cele\source\repos\answer for tut7\obj\Debug\answer for tut7.exe
+C:\Users\Sphesihle Cele\source\repos\answer for tut7\obj\Debug\answer for tut7.pdb
